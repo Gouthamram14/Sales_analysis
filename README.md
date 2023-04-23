@@ -13,7 +13,7 @@ Analysis of sales data to improve customer experience and sales
 
 --------------------------------------------------------------------
 
-###Project Learnings
+### Project Learnings
 
 1. Performed data cleaning and data manipulation to ensure data accuracy and clean data for analysis purposes.
 2. Utilized pandas, matplotlib, and seaborn libraries to conduct exploratory data analysis (EDA) and gain insights into the data.
